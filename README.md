@@ -1,0 +1,2 @@
+# TeduCoreApp
+Ok
